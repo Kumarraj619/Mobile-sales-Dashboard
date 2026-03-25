@@ -1,7 +1,7 @@
 # 📱 Mobile Sales Insights Dashboard  
 
 An interactive **Power BI dashboard** designed to analyze mobile phone sales performance across brands, cities, and customer segments.  
-*Built while learning from Satish Dhawale Sir’s YouTube Power BI tutorials.*
+
 
 ---
 
