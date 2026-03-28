@@ -100,3 +100,5 @@ This project strengthened skills in:
 - Interactive Power BI reporting  
 
 ---
+### 🔹Dashboard Preview
+![Snapshot of dashboard.png](https://github.com/Kumarraj619/Mobile-sales-Dashboard/blob/main/Snapshot%20of%20dashboard.png)
